@@ -1,0 +1,6 @@
+framework module Pods_iHeart500pxTests {
+  umbrella header "Pods-iHeart500pxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
