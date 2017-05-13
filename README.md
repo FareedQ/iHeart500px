@@ -4,3 +4,6 @@ As a gift to 500px and a self imposed coding challenge, I created an app similar
 This app is the first time I connect to an OAuth API. I used the OAuthSwift CocoaPod framework manage the OAuth connection and added the 500px api to their demo file. Please forgive me code, I had some challenges with performing synchronous and asynchronous network call, this is my first time performing OAuth.
 
 All code for execution can be found at in the https://github.com/FareedQ/iHeart500px/blob/master/iHeart500px/MainVC.swift
+
+On May 13th 2017,
+I was attempting to update the repo to work with Swift 3 and did overwrite all previous commits.
